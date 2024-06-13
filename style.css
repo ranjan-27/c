@@ -1,0 +1,173 @@
+html,body{
+    scroll-behavior: smooth;
+    background-image: url(https://img.freepik.com/free-vector/abstract-background-design-dark-green_53876-59276.jpg?w=740&t=st=1718272022~exp=1718272622~hmac=eeb7aef2a937353688c39f093ff399b6d76248114193fbdf357c77588e7038d6);
+    
+    padding: 0px;
+    margin: 0px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+header{
+    background-color: rgb(54, 167, 154);
+   background-repeat: no-repeat;
+    DISPLAY:FLEX;
+    justify-content: space-between;
+    padding-top: 5px;
+    size-adjust: 0PX;
+    
+}
+
+
+
+H1{
+    color: rgb(236, 223, 223);
+    padding-left: 10%;
+    margin-top: 3%;
+
+}
+#T{
+     margin-right: 50PX;
+     font-style: oblique;
+      font-size: 18PX;
+      p:HOVER{
+        background-color: rgb(166, 103, 137);
+      }
+      text-decoration: underline;
+      text-shadow: 20PX;
+     
+}
+#Y{
+    padding-left: 0%;
+}
+#J{
+    font-size: x-large;
+    text-align: left;
+    color: beige;
+    padding-left: 0%;
+    
+    
+}
+
+#hd{
+    border-radius: 50%;
+    height: 240px;
+    width: 170px;
+    margin-top: 20px;
+    margin-left:5px;
+   
+    
+
+}
+.q{
+    display:flex;
+    border-right: 100px;
+    
+    
+    
+}
+h2{
+    color:rgb(255, 255, 255);
+    margin-top: 100px;
+    margin-right: 300px;
+    font-weight: bolder;
+    font-size: x-large;
+}
+@keyframes typing{
+    to{
+        width: 0;
+    }
+    from{
+        width: 100px;
+    }
+}
+
+
+span{
+    color: rgb(38, 96, 19);
+}
+#e {
+    color:rgb(236, 229, 15);
+}
+i{
+    color: rgb(104, 245, 10);
+    font-weight: bold;
+    font-size: x-large;
+}
+
+a :hover
+{
+    background-color: rgb(192, 116, 143);
+}
+H3{    
+    font-size: x-large;
+}
+#g{
+    font-size: x-large;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+#JK{
+    font-size: xx-large;
+    padding-left: 10px;
+    padding-top: 50px;
+    font-weight: bolder;
+    font: bolder;
+    color: #fdfdff;
+    text-align: left;
+    text-decoration: wavy;
+    text-overflow: initial;
+}
+#w{
+    text-align: left;
+    height: 80px;
+    padding-left: 10px ;
+
+}
+img:hover{
+    background-color: rgb(19, 134, 236);
+}
+#last{
+    text-align: left;
+    font-size: large;
+    color: rgb(192, 234, 203);
+}
+#jk{
+    font-weight: bolder;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: x-large;
+   color: #ccac0d;
+  
+   
+}
+
+#rt{
+    color: #fffefb;
+    animation: typing 10s steps(40,end),blink-caret 0.75s step-end infinite; 
+    border-right: 0.15cm solid orange;
+    font-size: xx-large;
+}
+@keyframes typing{
+    from{
+        width:0;
+    }
+    to{
+        width:100px;
+    }
+}
+@keyframes blink-caret{
+    from,to{
+        border-color:transparent;
+    }
+    50%{
+        border-color: rgb(229, 150, 14);
+    }
+
+
+}
+
+
