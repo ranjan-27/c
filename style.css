@@ -5,8 +5,8 @@ html,body{
     padding: 0px;
     margin: 0px;
     background-repeat: no-repeat;
-    background-position: left;
-    background-size: contain;
+    background-position: center;
+    background-size: ccover;
     background-attachment: fixed;
 
 }
@@ -43,7 +43,7 @@ H1{
     padding-left: 0%;
 }
 #J{
-    font-size: x-large;
+    font-size: larger;
     
     color: rgb(243, 243, 235);
     padding-left: 0%;
