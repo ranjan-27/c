@@ -5,8 +5,8 @@ html,body{
     padding: 0px;
     margin: 0px;
     background-repeat: no-repeat;
-    background-position: center;
-    background-size: ccover;
+    background-position: left;
+    background-size: cover;
     background-attachment: fixed;
 
 }
@@ -43,12 +43,11 @@ H1{
     padding-left: 0%;
 }
 #J{
-    font-size: larger;
-    
-    color: rgb(243, 243, 235);
+    font-size: x-large;
+    text-align: left;
+    color: rgb(244, 244, 235);
     padding-left: 0%;
     margin-left: 0%;
-    text-align: left;
     
     
 }
@@ -171,5 +170,6 @@ img:hover{
 
 
 }
+
 
 
